@@ -21,7 +21,7 @@ a:active {
 }
 @font-face {
 	font-family: 'racefont';
-	src: url('C:/Users/acer/Desktop/racing/Sakana.ttf') format('truetype');
+	src: url('Sakana.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -107,7 +107,7 @@ a:active {
 .bg {
 	float:left;
 	margin: 8vw 2vw;
-	background-image: url('C:/Users/acer/Desktop/moonwishes/abtmerkuri.png');
+	background-image: url('abtmerkuri.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 96%;
